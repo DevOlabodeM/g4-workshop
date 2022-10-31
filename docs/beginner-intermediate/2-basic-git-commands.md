@@ -114,6 +114,12 @@
     ```bash
         git merge
     ```
+15. ```git mv <existing_path> <new_path>```
+      Move (&/or rename) a file & stage move
+    ```bash
+        git mv <existing_path> <new_path>
+    ```
+
 
 > Pro tips: ```.gitignore``` is a file that contain what is mearnt to not be tracking by git
 
